@@ -5,7 +5,7 @@ Tags: simple, logs, custom-background, custom-logo, custom-menu, featured-images
 
 Requires at least: 4.8
 Tested up to: 4.9
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
@@ -28,6 +28,9 @@ Custom theme: simple_log_viewer, developed by ryotsun
 simple_log_viewer includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
+
+= 1.0.1 =
+* Minor fixes
 
 = 1.0.0 =
 * Initial release

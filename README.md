@@ -1,13 +1,13 @@
 # simple_log_viewer
 
-Contributors: ryotsun
-Tags: simple, logs, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+- Contributors: ryotsun
+- Tags: simple, logs, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 - Requires at least: 4.8
 - Tested up to: 4.9
-- Stable tag: 1.0.0
+- Stable tag: 1.0.1
 - License: GNU General Public License v2 or later
-- License URI: https://www.gnu.org/licenses/gpl-2.0.html
+- License URI: LICENSE
 
 Optimized theme for log viewing called simple_log_viewer.
 
